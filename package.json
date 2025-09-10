@@ -1,0 +1,17 @@
+{
+  "name": "chiazzanova_prj",
+  "version": "0.0.1",
+  "description": "Chiazzanova Back End per gestire i menu offerti dall'omonimo bar",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "keywords": [],
+  "author": "Luigi Di Nardo",
+  "license": "ISC",
+  "private": true,
+  "type": "module"
+}

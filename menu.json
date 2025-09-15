@@ -1,1 +1,49 @@
-[{"nomeSezione":"Sezione 1","listaProdotti":[{"nomeProdotto":"prodotto 1.1","ingredienti":["ingr 1","ingr 2","ingr 3"],"prezzo":6.5},{"nomeProdotto":"prodotto 2","ingredienti":["ingr 4","ingr 5"],"prezzo":5}]},{"nomeSezione":"Sezione 2","listaProdotti":[]}]
+[
+    {
+        "posizione" : 1,
+        "nomeSezione": "Sezione 1",
+        "listaProdotti": [
+            {
+                "idProdotto": "1",
+                "nomeProdotto": "prodotto 1.1",
+                "ingredienti": [
+                    "ingr 1",
+                    "ingr 2",
+                    "ingr 3"
+                ],
+                "prezzo": 6.5
+            },
+            {
+                "idProdotto": "2",
+                "nomeProdotto": "prodotto 2",
+                "ingredienti": [
+                    "ingr 5",
+                    "ingr 6"
+                ],
+                "prezzo": 100
+            },
+            {
+                "nomeProdotto": "prodotto NEW 3",
+                "ingredienti": [
+                    "ingr 9"
+                ],
+                "prezzo": 3.5,
+                "idProdotto": 258
+            }
+        ]
+    },
+    {
+        "posizione" : 2,
+        "nomeSezione": "Sezione 2",
+        "listaProdotti": [
+            {
+                "idProdotto": "5",
+                "nomeProdotto": "prodotto NEW 2",
+                "ingredienti": [
+                    "ingr 4"
+                ],
+                "prezzo": 6.5
+            }
+        ]
+    }
+]

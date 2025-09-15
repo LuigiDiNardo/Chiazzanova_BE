@@ -1,0 +1,2 @@
+logo : #076c72
+scritta :  #fdfcfd
